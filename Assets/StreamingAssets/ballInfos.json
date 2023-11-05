@@ -1,0 +1,66 @@
+[{
+		"id": 1,
+		"color": 1,
+		"atk": 1,
+		"type": 1,
+		"a": 10,
+		"straightSpeed": 0.15,
+		"parabolaSpeed": 5,
+		"resName": "Ball/Res/1",
+		"deadEffRes": "Ball/DeadEffRes/Eff1",
+		"lifeTime": 100,
+		"WaitTime": 3
+	},
+	{
+		"id": 2,
+		"color": 2,
+		"atk": 1,
+		"type": 1,
+		"a": 10,
+		"straightSpeed": 0.15,
+		"parabolaSpeed": 5,
+		"resName": "Ball/Res/2",
+		"deadEffRes": "Ball/DeadEffRes/Eff2",
+		"lifeTime": 100,
+		"WaitTime": 3
+	},
+	{
+		"id": 3,
+		"color": 3,
+		"atk": 1,
+		"type": 1,
+		"a": 10,
+		"straightSpeed": 0.15,
+		"parabolaSpeed": 5,
+		"resName": "Ball/Res/3",
+		"deadEffRes": "Ball/DeadEffRes/Eff3",
+		"lifeTime": 100,
+		"WaitTime": 3
+	},
+	{
+		"id": 4,
+		"color": 4,
+		"atk": 1,
+		"type": 1,
+		"a": 10,
+		"straightSpeed": 0.15,
+		"parabolaSpeed": 5,
+		"resName": "Ball/Res/4",
+		"deadEffRes": "Ball/DeadEffRes/Eff4",
+		"lifeTime": 100,
+		"WaitTime": 3
+	},
+	{
+		"id": 5,
+		"color": 5,
+		"atk": 1,
+		"type": 1,
+		"a": 10,
+		"straightSpeed": 0.15,
+		"parabolaSpeed": 5,
+		"resName": "Ball/Res/5",
+		"deadEffRes": "Ball/DeadEffRes/Eff5",
+		"lifeTime": 100,
+		"WaitTime": 3
+	}
+]

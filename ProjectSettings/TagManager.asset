@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tower
+  - Ball
+  - Cat
+  - BallFollowCat1
+  - BallFollowCat2
+  - BallFollowCat3
+  - BallFollowCat4
+  - BallFollowCat5
+  - CatHurt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: back
+    uniqueID: 4181667191
+    locked: 0
+  - name: UI
+    uniqueID: 3320213053
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
